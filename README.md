@@ -8,7 +8,7 @@ Vocational High School</h1>
 
 - 🌱 I'm currently learning **Computer and Network Engineering**
 
--♟️ ***We control the game***
+-♟️ **We control the game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
