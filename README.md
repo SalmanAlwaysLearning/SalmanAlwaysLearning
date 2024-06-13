@@ -1,14 +1,12 @@
 [![MasterHead](https://static1.smartbear.co/smartbearbrand/media/images/blog/what%E2%80%99s-the-best-programming-language-to-learn-first.png?ext=.png)](https://github.com/SalmanAlwaysLearning/)
-<h1 align="center">Hi 👋! I'm Salman
+<h1 align="center">I'm Salman
 Vocational High School</h1>
-<h3 align="center">A vocational high school student</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 
 
-- 🌱 I'm currently learning **Computer and Network Engineering**
-
--♟️ **We control the game**
+- 🎲 I'm currently learning **Computer and Network Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
