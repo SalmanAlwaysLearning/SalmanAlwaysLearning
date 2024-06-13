@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=salmanalwayslearning&show_icons=false&theme=radical&hide=_answered_false_number=16.00&rank_icon=github&include_all_commits=false&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=salmanalwayslearning&show_icons=true&theme=radical&hide_all_commits=false&card_width=150" />
 </a>
 
 
