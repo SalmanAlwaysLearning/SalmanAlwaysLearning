@@ -6,7 +6,7 @@ Vocational High School</h1>
 
 
 
-- 🎲 I'm currently learning **Computer and Network Engineering**
+- 🖥 I'm currently learning **Computer and Network Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
