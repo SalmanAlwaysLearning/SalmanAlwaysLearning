@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanalwayslearning&show_icons=true&locale=en&layout=compact" alt="salmanalwayslearning" /></p>
 
+<a href=#><img src="contributions.svg"></a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanalwayslearning&" alt="salmanalwayslearning" /></p>
