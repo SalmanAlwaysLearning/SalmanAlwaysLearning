@@ -1,11 +1,13 @@
 [![MasterHead](https://static1.smartbear.co/smartbearbrand/media/images/blog/what%E2%80%99s-the-best-programming-language-to-learn-first.png?ext=.png)](https://github.com/SalmanAlwaysLearning/)
-<h1 align="center">I'm Salman</h1>
-<h1 align="center">High School Boy</h1>
+<h1 align="center">J</h1>
+<h1 align="center"></h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 
-- 🖥 I'm currently learning **Computer and Network Engineering**
+- 🖥 **Software Engineering**
+
+**Stats:**
 
 <div align="left">
  <!--   <img src="https://github-readme-stats.vercel.app/api?username=EkiZR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
